@@ -1,0 +1,4 @@
+geographiclib==1.52
+geopy==2.2.0
+nominatim==0.1
+numpy==1.19.5
